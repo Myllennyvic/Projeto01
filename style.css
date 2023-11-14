@@ -1,0 +1,16 @@
+.informacao{
+    width: 240px;
+    height: 25px;
+    border: 1px solid black;
+    background-color: powderblue;
+    
+}
+
+.button{
+    width: 290px;
+    height: 27px;
+    border: 1px solid black;
+    background-color: powderblue;
+    margin-top: 5px;
+}
+
